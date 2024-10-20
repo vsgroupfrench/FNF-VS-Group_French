@@ -38,3 +38,7 @@ luac.out
 *.sublime-workspace
 mods
 release
+
+# IntelliJ
+*.iml
+.idea/
